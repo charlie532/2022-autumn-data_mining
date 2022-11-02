@@ -1,0 +1,9 @@
+data: datasetA	minsup: 0.05	task1 time: 0.063471	task2 time: 0.066401	ratio(task2/task1)104.616535
+data: datasetA	minsup: 0.075	task1 time: 0.028317	task2 time: 0.029295	ratio(task2/task1)103.452834
+data: datasetA	minsup: 0.1	task1 time: 0.025387	task2 time: 0.026364	ratio(task2/task1)103.847599
+data: datasetB	minsup: 0.025	task1 time: 31.070424	task2 time: 31.071401	ratio(task2/task1)100.003145
+data: datasetB	minsup: 0.05	task1 time: 6.189055	task2 time: 6.190030	ratio(task2/task1)100.015756
+data: datasetB	minsup: 0.075	task1 time: 6.024576	task2 time: 6.025553	ratio(task2/task1)100.016229
+data: datasetC	minsup: 0.025	task1 time: 311.130188	task2 time: 311.131164	ratio(task2/task1)100.000314
+data: datasetC	minsup: 0.05	task1 time: 63.233905	task2 time: 63.233905	ratio(task2/task1)100.000000
+data: datasetC	minsup: 0.075	task1 time: 62.330507	task2 time: 62.331483	ratio(task2/task1)100.001566
